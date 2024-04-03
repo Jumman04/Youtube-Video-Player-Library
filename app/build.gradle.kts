@@ -51,4 +51,7 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(project(":JPlayer"))
+
+    // to implement in your project
+   // implementation("com.github.Jumman04:Youtube-Video-Player-Library:1.0")
 }
