@@ -12,7 +12,7 @@ android {
         minSdk = 16
         targetSdk = 34
         versionCode = 1
-        versionName = "1.0"
+        versionName = "2.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -53,5 +53,5 @@ dependencies {
     implementation(project(":JPlayer"))
 
     // to implement in your project
-   // implementation("com.github.Jumman04:Youtube-Video-Player-Library:1.0")
+   //  implementation("com.github.Jumman04:Youtube-Video-Player-Library:-SNAPSHOT")
 }

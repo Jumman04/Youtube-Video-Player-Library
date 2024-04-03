@@ -38,7 +38,7 @@ afterEvaluate {
             register<MavenPublication>("release") {
                 groupId = "com.github.Jumman04"
                 artifactId = "Youtube-Video-Player-Library"
-                version = "1.0"
+                version = "2.0"
 
                 afterEvaluate {
                     from(components["release"])
