@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Youtube Video Player Library"
 include(":app")
+include(":JPlayer")
